@@ -26,7 +26,7 @@ Uncover is a **research tool** that leverages **LangChain** and **OpenAI** to ex
 
 2. Navigate to the project directory:
    ```bash
-   cd uncover-news-research
+   cd GenAI-Uncover-A-Research-Tool
    ```
 
 3. Install dependencies:
@@ -38,7 +38,7 @@ Uncover is a **research tool** that leverages **LangChain** and **OpenAI** to ex
    - Create a `.env` file in the project directory.
    - Add your API key to the file:
      ```
-     OPENAI_API_KEY=your_openai_api_key_here
+     OPENAI_API_KEY=your_openai_api_key
      ```
 
 ## How to Use
