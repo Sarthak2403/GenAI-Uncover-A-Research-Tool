@@ -21,7 +21,7 @@ Uncover is a **research tool** that leverages **LangChain** and **OpenAI** to ex
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone Sarthak2403/GenAI-Uncover-A-Research-Tool
    ```
 
 2. Navigate to the project directory:
